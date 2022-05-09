@@ -1,0 +1,7 @@
+1) s1 - manual testing
+2) s2 - regression testing
+3) s3 - functional testing
+4) s4 - Postman
+5) s5 - SQL
+6) s6 - API testing
+7) s7 - Git
